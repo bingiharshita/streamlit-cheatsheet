@@ -67,8 +67,8 @@ streamlit run your_app.py
 Use st.write() for anything — it automatically figures out what you're passing!
 
 ⭐ Connect with Me
-GitHub: harshita-bingi
+GitHub: https://github.com/bingiharshita
 
-LinkedIn: Bingi Harshita
+LinkedIn: https://www.linkedin.com/in/harshita-bingi/
 
 Built for beginners and creators — Happy Coding!
